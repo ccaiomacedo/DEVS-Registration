@@ -1,0 +1,50 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+
+#esquerda{
+	float:left;
+	
+}
+#direita{	
+	float:right;
+	
+}
+
+#area-principal{
+	width:500px;
+	margin:0 auto;
+}
+
+p{
+	text-align:center;
+}
+h1{
+	padding-top:20px;
+	margin:0 auto;
+	text-align:center; 
+}
+body{
+	background:url("../imagem/fundo3.jpg")no-repeat;
+	color:#EDE7E7;
+	
+
+}
+
+h2{
+	width:110px;
+	background:black;
+	text-align:center;
+	margin:0 auto
+}
+
+
+
+}
+
+
+
+
+
